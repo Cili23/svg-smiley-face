@@ -12,7 +12,7 @@ html {
 
 .mouth {
   fill: none;
-  stroke: black;
+  stroke: #000;
   stroke-width: 6px;
   stroke-linecap: round;
 }
@@ -29,10 +29,10 @@ html {
   transition: all .5s linear;
 }
 
-.simley:hover .left-eyebrow {
+.smiley:hover .left-eyebrow {
   transform: rotate(100deg);
 }
 
-.simley:hover .right-eyebrow {
+.smiley:hover .right-eyebrow {
   transform: rotate(80deg);
 }
